@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "de47145d947b23a1",
@@ -183,7 +184,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "237a483cfffbc2f5",
+  "active": "09e792d8e0cd167f",
   "lastOpenFiles": [
     "Базовая информация",
     "Welcome.md",
