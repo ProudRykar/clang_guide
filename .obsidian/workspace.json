@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "690be5cf96f7028b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7045875de946c9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09e792d8e0cd167f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Базовая информация/Переменные и типы данных в С.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Переменные и типы данных в С"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8110257a5baa3b98",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f2d2ac19c3fac62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "237a483cfffbc2f5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "27b67475e030655c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "22830e7af1149c04",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 275.5
+  },
+  "right": {
+    "id": "de47145d947b23a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c1663163b2d1503",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7427ac4aecf576eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Базовая информация/Переменные и типы данных в С.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Переменные и типы данных в С"
+            }
+          },
+          {
+            "id": "813754b1c2ce8411",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Базовая информация/Переменные и типы данных в С.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Переменные и типы данных в С"
+            }
+          },
+          {
+            "id": "203fbfc61f4f05c3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f9f173efd69bd6d3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "bee26e64d1bd4632",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Базовая информация/Переменные и типы данных в С.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Переменные и типы данных в С"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "237a483cfffbc2f5",
+  "lastOpenFiles": [
+    "Базовая информация",
+    "Welcome.md",
+    "Базовая информация/Переменные и типы данных в С.md",
+    "create a link.md"
+  ]
+}
